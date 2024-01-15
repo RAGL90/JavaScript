@@ -1,0 +1,11 @@
+En este área del curso se van a ver:
+
+Asignación mediante desestructuración => Descomponer contenido de objetos y arrays en estructuras más pequeñas
+Archivos JSON => Formato de archivos, que sustituyen a los XML, son el formato principal de intercambio de información entre API
+LocalStorage y SessionStorage => Para no tener que hacer una petición en el navegador cada vez que se acede al servidor se almacena en cookie
+JavaScript Asíncrono => Peticiones HTTP, se hace peticiones en la URL y hay una latencia de respuesta entre servidor y cliente, por lo que es asíncrono.
+                        Por esto se crean las pausas de carga, y se emplean spinners dando vueltas.
+Networking => Hacer peticiones desde el Front hasta la API. 
+Closure compiler (de Google) js13kGames (es un evento, sirve para ver a los mejores y seguirles)
+
+
